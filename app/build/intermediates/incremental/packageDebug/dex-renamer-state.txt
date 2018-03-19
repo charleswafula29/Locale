@@ -1,0 +1,7 @@
+#Sun Mar 18 23:54:42 WAT 2018
+base.0=/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b2f22e356eb0fe6cbbc0b1b26177e21453a66374
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_752a908bebe5feef38df73b481339f1c3a140536/classes.dex
+base.1=/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_752a908bebe5feef38df73b481339f1c3a140536
+file.0=/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b2f22e356eb0fe6cbbc0b1b26177e21453a66374/classes.dex

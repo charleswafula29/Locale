@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bff3699116fcc1eba22f0ac1ff497d330149e3f5">
+        <dex dex="/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_752a908bebe5feef38df73b481339f1c3a140536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/delaroy/AndroidStudioProjects/newproject/android-advanced-master/LocaleText3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b2f22e356eb0fe6cbbc0b1b26177e21453a66374/classes.dex" />
+    </item>
+
+</items>
